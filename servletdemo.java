@@ -8,3 +8,4 @@ public class servletdemo {
 //I am from syangja
 //java applet is closed
 //error aayo hola
+//feri push garnw paryo
