@@ -9,3 +9,4 @@ public class servletdemo {
 //java applet is closed
 //error aayo hola
 //feri push garnw paryo
+//aaja chai k garfni
