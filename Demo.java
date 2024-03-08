@@ -20,7 +20,7 @@ public class Demo {
         tu.setBounds(130, 40, 100, 20);
         f.add(tu);
 
-        JTextField tp = new JTextField("Password");
+        JPasswordField tp = new JPasswordField("Password");
         tp.setBounds(130, 70, 100, 20);
         f.add(tp);
 
