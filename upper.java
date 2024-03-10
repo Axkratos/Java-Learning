@@ -21,8 +21,10 @@ public class upper implements ActionListener{
         f.add(b);
 
         
-        f.add(f2);
         f.add(f1);
+
+
+        f.add(f2);
         f1.setBounds(180,150,80,30);
         f2.setBounds(180,200,80,30);
     }
