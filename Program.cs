@@ -14,7 +14,7 @@ class Dog : Animal {
     public void Bark() {
         Console.WriteLine("Dog is barking");
     }
-}
+}//child
 //my name
 class Program {
     static void Main(string[] args) {
